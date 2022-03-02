@@ -1,2 +1,3 @@
 # tidal-ellipses
-A short script used to visualize periodic vector field, e.g., those computed as tidal components of an ocean.
+
+A short MATLAB script used to visualize periodic, zero-mean velocity field, e.g., one computed as a tidal component of an ocean velocity field.
